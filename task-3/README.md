@@ -13,4 +13,4 @@ Tool Used: DB Browser for SQLite (example)
 Filename:
 - task3_select_queries.sql
 
-Prepared by: Deepak
+Prepared by: Akshitha
